@@ -6,7 +6,7 @@
 
 
 
-Welcome! This page provides an overview of the Higher Ed Policy Analysis project and links to all public resources.
+Welcome! This page provides an overview of the Higher Ed Policy Analysis (2nd edition) project and links to all public resources.
 
 
 
