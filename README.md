@@ -1,6 +1,6 @@
 # Higher Education Policy Analysis Using Quantitative Techniques — 2nd Edition
 
-Welcome! This GitHub organization provides materials supporting Marvin Titus’s *Higher Education Policy Analysis Using Quantitative Techniques* (Springer).
+Welcome! This GitHub organization provides materials supporting Marvin Titus’s *Higher Education Policy Analysis Using Quantitative Techniques, 2nd Edition* (Springer).
 
 ---
 
