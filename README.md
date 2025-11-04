@@ -48,66 +48,58 @@ Here’s a more readable and compact version using a bullet list per chapter, sh
 Each chapter’s materials are available in all four repositories:
 
 **ch4**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch4)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch4)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch4)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch4)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch4)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch4)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch4)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch4)
 
 **ch5**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch5)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch5)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch5)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch5)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch5)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch5)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch5)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch5)
 
 **ch6**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch6)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch6)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch6)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch6)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch6)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch6)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch6)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch6)
 
 **ch7**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch7)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch7)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch7)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch7)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch7)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch7)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch7)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch7)
 
 **ch8**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch8)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch8)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch8)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch8)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch8)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch8)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch8)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch8)
 
 **ch9**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch9)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch9)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch9)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch9)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch9)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch9)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch9)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch9)
 
 **ch10**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch10)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch10)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch10)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch10)
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch10)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch10)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch10)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch10)
 
 **ch11**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch11)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch11)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch11)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch11)
-...
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch11)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch11)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch11)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch11)
 
 **ch12**
-- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/ch12)
-- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/ch12)
-- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/ch12)
-- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/ch12)````
-
-For detailed information about each type of material, visit the README in each repository:
-- [Code README](https://github.com/higher-ed-policy-analysis-2nd-edition/code)
-- [Data README](https://github.com/higher-ed-policy-analysis-2nd-edition/data)
-- [Figures README](https://github.com/higher-ed-policy-analysis-2nd-edition/figures)
-- [Tables README](https://github.com/higher-ed-policy-analysis-2nd-edition/tables)
-
+- [Code](https://github.com/higher-ed-policy-analysis-2nd-edition/code/tree/main/ch12)
+- [Data](https://github.com/higher-ed-policy-analysis-2nd-edition/data/tree/main/ch12)
+- [Figures](https://github.com/higher-ed-policy-analysis-2nd-edition/figures/tree/main/ch12)
+- [Tables](https://github.com/higher-ed-policy-analysis-2nd-edition/tables/tree/main/ch12)
 
 ## How to Use
 
